@@ -67,22 +67,27 @@
 
 ## 📈 Estadísticas de GitHub
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JeremyBobS&theme=shadow_green&show_icons=true" alt="JeremyBobS's GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=JeremyBobS&theme=shadow-green&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="JeremyBobS's GitHub Streak"/>
+  <h2>
+  
+### 🔥 Jeremy Eduardo Bobadilla Santibañez Github Contributions
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=JeremyBobS&theme=shadow-green&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="JeremyBobS's GitHub Streak"/></h2>
 </div>
 
 ---
 
 ### ¡Conéctate Conmigo!
 <div align="center">
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:jeremyedu2014@gmail.com">
+    <img src="https://img.shields.io/badge/Personal-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Personal"/>
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
+  <a href="mailto:jeremy.bobadilla@gesitechchile.cl">
+    <img src="https://img.shields.io/badge/Empresario-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Empresario"/>
+  </a>
+  <a href="https://www.linkedin.com/in/jeremy-eduardo-bobadilla-santiba%C3%B1ez-39814512b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   </div>
 
 <div align="center">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=cylinder&height=90&color=gradient&section=header&reversal=true"/>
 </div>
