@@ -1,60 +1,88 @@
-## Hi there 👋
+<div align="center">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=rounded&height=300&color=gradient&text=¡Hola!%20Soy%20Jeremy%20Bobadilla&section=header&reversal=true&fontAlign=50&fontSize=40"/>
+</div>
 
-<!--
-**JeremyBobS/JeremyBobS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
----
-## ¡Bienvenido a mi perfil de GitHub! 👋
-
-¡Hola! Soy un **Ingeniero Civil en Informática** apasionado por la tecnología y la resolución de problemas, egresado de la **Universidad Autónoma de Chile**. Actualmente, mi día a día se divide entre mi rol en una **empresa multinacional**, donde me sumerjo en el fascinante mundo del **desarrollo y mantenimiento de bots** y el **análisis de datos**, y mi trabajo en **Gesitech Chile**.
-
-Me especializo en el **desarrollo de aplicaciones web y móviles**, con experiencia tanto en el **frontend** como en el **backend**. Mi versatilidad me permite manejar una **amplia variedad de bases de datos** para construir soluciones robustas y eficientes.
-
-### Habilidades Técnicas Destacadas
-
-Estos son algunos de los lenguajes y tecnologías con los que me siento más cómodo y en los que tengo experiencia sólida:
-
-* **Lenguajes de Programación:**
-    * Python
-    * Dart
-    * Flutter
-    * Java
-    * C
-    * C++
-    * JavaScript
-
-* **En proceso de aprendizaje:**
-    * Ruby
-    * R
-    * C#
-
-* **Entornos en la Nube:**
-    * Microsoft Azure
-    * Amazon Web Services (AWS)
-    * Oracle Cloud
-    * Google Cloud Platform (GCP)
-
-* **Sistemas Operativos:**
-    * Windows (todas las versiones)
-    * Linux (Ubuntu, Kali, CentOS, Red Hat, Arch Linux, Garuda Linux)
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&color=0078D4&center=true&width=650&lines=Ingeniero+Civil+en+Inform%C3%A1tica;Desarrollador+Web+y+M%C3%B3vil;Especialista+en+Bots+y+An%C3%A1lisis+de+Datos;Apasionado+por+la+Tecnolog%C3%ADa" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
 
 ---
 
-### Más Allá del Código
+<p align="center">
+  Soy un Ingeniero Civil en Informática egresado de la Universidad Autónoma de Chile, con experiencia en el fascinante mundo del desarrollo y mantenimiento de bots, el análisis de datos, y la creación de aplicaciones web y móviles. Actualmente, divido mi tiempo entre una empresa multinacional y Gesitech Chile.
+</p>
 
-Además de mi experiencia en desarrollo de software, también cuento con conocimientos en **montaje y reemplazo de componentes físicos de PCs y notebooks**. Me encanta meterme con el hardware y entender cómo todo funciona a nivel más profundo.
+<p align="center">
+  Me encanta sumergirme en proyectos tanto de frontend como de backend y tengo la capacidad de trabajar con una amplia variedad de bases de datos para construir soluciones robustas y eficientes.
+</p>
 
 ---
 
-¡Explora mis repositorios para ver mis proyectos y no dudes en contactarme si tienes alguna pregunta o quieres colaborar!
+## 🚀 Mis Habilidades Técnicas
+
+### 💻 Lenguajes de Programación
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+</p>
+
+### 🛠️ Frameworks y Tecnologías
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+</p>
+
+### ☁️ Entornos en la Nube
+<p>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
+</p>
+
+### 🐧 Sistemas Operativos
+<p>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
+  <img src="https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white" alt="CentOS"/>
+  <img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" alt="Red Hat"/>
+  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch Linux"/>
+</p>
+
+### ✨ Otras Habilidades
+<p>
+  <img src="https://img.shields.io/badge/Bases%20de%20Datos-blue?style=for-the-badge&logo=database&logoColor=white" alt="Databases"/>
+  <img src="https://img.shields.io/badge/Hardware%20PC-grey?style=for-the-badge&logo=computer&logoColor=white" alt="PC Hardware"/>
+</p>
+
+---
+
+## 📈 Estadísticas de GitHub
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JeremyBobS&theme=shadow_green&show_icons=true" alt="JeremyBobS's GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=JeremyBobS&theme=shadow-green&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="JeremyBobS's GitHub Streak"/>
+</div>
+
+---
+
+### ¡Conéctate Conmigo!
+<div align="center">
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  </div>
+
+<div align="center">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer"/>
+</div>
