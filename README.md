@@ -23,7 +23,7 @@
 
 ### 💻 Lenguajes de Programación
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" href="https://www.python.org/"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
@@ -81,7 +81,7 @@
     <img src="https://img.shields.io/badge/Personal-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Personal"/>
   </a>
   <a href="mailto:jeremy.bobadilla@gesitechchile.cl">
-    <img src="https://img.shields.io/badge/Empresario-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Empresario"/>
+    <img src="https://img.shields.io/badge/Empresa-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Empresario"/>
   </a>
   <a href="https://www.linkedin.com/in/jeremy-eduardo-bobadilla-santiba%C3%B1ez-39814512b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
